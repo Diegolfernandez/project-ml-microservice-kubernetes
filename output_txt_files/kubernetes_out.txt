@@ -1,0 +1,11 @@
+Port: 8000
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   260  100    48  100   212    941   4156 --:--:-- --:--:-- --:--:--  5098{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+
+
+Diego@ARSIS0213 ~/Udacity/DevOps Engineer Nanodegree/05 - Microservice at scale using AWS and Kubernets/Project/ml-kubernets (master)
